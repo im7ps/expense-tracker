@@ -1,0 +1,10 @@
+{
+  "supermercato": "alimentazione",
+  "ristorante": "ristorazione",
+  "bar": "ristorazione",
+  "benzina": "trasporti",
+  "farmacia": "salute",
+  "palestra": "salute",
+  "cinema": "svago",
+  "stipendio": "entrate"
+}

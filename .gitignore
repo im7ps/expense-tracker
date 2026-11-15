@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Database locali con i movimenti
+*.db
+
+# Regole personali (copiate da config/rules.example.json)
+config/rules.json
+
+# File CSV reali: si versionano solo i fixture di test inventati
+*.csv
+!tests/fixtures/*.csv
